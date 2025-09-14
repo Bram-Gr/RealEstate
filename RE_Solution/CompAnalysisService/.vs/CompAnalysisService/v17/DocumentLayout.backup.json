@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\b93ra\\Desktop\\RE_REPO\\RealEstate\\RE_Solution\\CompAnalysisService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\Front-End\\Pages\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A16402-FEF2-406E-A008-F37587A66208}|CompAnalysisService\\CompAnalysisService.csproj|c:\\users\\b93ra\\desktop\\re_repo\\realestate\\re_solution\\companalysisservice\\companalysisservice\\controllers\\searchpropertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0A16402-FEF2-406E-A008-F37587A66208}|CompAnalysisService\\CompAnalysisService.csproj|solutionrelative:companalysisservice\\controllers\\searchpropertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A16402-FEF2-406E-A008-F37587A66208}|CompAnalysisService\\CompAnalysisService.csproj|c:\\users\\b93ra\\desktop\\re_repo\\realestate\\re_solution\\companalysisservice\\companalysisservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0A16402-FEF2-406E-A008-F37587A66208}|CompAnalysisService\\CompAnalysisService.csproj|solutionrelative:companalysisservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\CompAnalysisService\\Front-End\\Pages\\Buyers.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\CompAnalysisService\\Front-End\\Pages\\Buyers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\CompAnalysisService\\Front-End\\Pages\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\CompAnalysisService\\Front-End\\Pages\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\Front-End\\Pages\\Sellers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\Front-End\\Pages\\Buyers.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\Front-End\\Pages\\Buyers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\Front-End\\Pages\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\Front-End\\Pages\\Sellers.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sellers.cshtml",
+              "DocumentMoniker": "C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\Front-End\\Pages\\Sellers.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\RealEstate\\RE_Solution\\Front-End\\Pages\\Sellers.cshtml",
+              "ToolTip": "C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\Front-End\\Pages\\Sellers.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\RealEstate\\RE_Solution\\Front-End\\Pages\\Sellers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-14T17:55:35.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Buyers.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\Front-End\\Pages\\Buyers.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\RealEstate\\RE_Solution\\Front-End\\Pages\\Buyers.cshtml.cs",
+              "ToolTip": "C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\Front-End\\Pages\\Buyers.cshtml.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\RealEstate\\RE_Solution\\Front-End\\Pages\\Buyers.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T17:50:09.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Buyers.cshtml",
+              "DocumentMoniker": "C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\Front-End\\Pages\\Buyers.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\RealEstate\\RE_Solution\\Front-End\\Pages\\Buyers.cshtml",
+              "ToolTip": "C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\Front-End\\Pages\\Buyers.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\RealEstate\\RE_Solution\\Front-End\\Pages\\Buyers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-14T17:49:48.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\Front-End\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\RealEstate\\RE_Solution\\Front-End\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\Front-End\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\RealEstate\\RE_Solution\\Front-End\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-14T17:48:43.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\Front-End\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\RealEstate\\RE_Solution\\Front-End\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\Front-End\\Pages\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\RealEstate\\RE_Solution\\Front-End\\Pages\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-14T18:08:19.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sellers.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\Front-End\\Pages\\Sellers.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\RealEstate\\RE_Solution\\Front-End\\Pages\\Sellers.cshtml.cs",
+              "ToolTip": "C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\Front-End\\Pages\\Sellers.cshtml.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\RealEstate\\RE_Solution\\Front-End\\Pages\\Sellers.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T17:56:17.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Buyers.cshtml",
+              "DocumentMoniker": "C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\CompAnalysisService\\Front-End\\Pages\\Buyers.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\RealEstate\\RE_Solution\\CompAnalysisService\\Front-End\\Pages\\Buyers.cshtml",
+              "ToolTip": "C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\CompAnalysisService\\Front-End\\Pages\\Buyers.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\RealEstate\\RE_Solution\\CompAnalysisService\\Front-End\\Pages\\Buyers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-14T17:27:28.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\CompAnalysisService\\Front-End\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\RealEstate\\RE_Solution\\CompAnalysisService\\Front-End\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\CompAnalysisService\\Front-End\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\RealEstate\\RE_Solution\\CompAnalysisService\\Front-End\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABwAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-14T17:18:15.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchPropertyController.cs",
+              "DocumentMoniker": "C:\\Users\\b93ra\\Desktop\\RE_REPO\\RealEstate\\RE_Solution\\CompAnalysisService\\CompAnalysisService\\Controllers\\SearchPropertyController.cs",
+              "RelativeDocumentMoniker": "CompAnalysisService\\Controllers\\SearchPropertyController.cs",
+              "ToolTip": "C:\\Users\\b93ra\\Desktop\\RE_REPO\\RealEstate\\RE_Solution\\CompAnalysisService\\CompAnalysisService\\Controllers\\SearchPropertyController.cs",
+              "RelativeToolTip": "CompAnalysisService\\Controllers\\SearchPropertyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T01:08:08.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Buyers.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\CompAnalysisService\\Front-End\\Pages\\Buyers.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\RealEstate\\RE_Solution\\CompAnalysisService\\Front-End\\Pages\\Buyers.cshtml.cs",
+              "ToolTip": "C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\CompAnalysisService\\Front-End\\Pages\\Buyers.cshtml.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\RealEstate\\RE_Solution\\CompAnalysisService\\Front-End\\Pages\\Buyers.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T17:29:55.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAMwIAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-09-14T17:31:37.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\CompAnalysisService\\Front-End\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\RealEstate\\RE_Solution\\CompAnalysisService\\Front-End\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\b93ra\\Desktop\\RealEstate\\RE_Solution\\CompAnalysisService\\Front-End\\Pages\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\RealEstate\\RE_Solution\\CompAnalysisService\\Front-End\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-14T17:17:45.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\b93ra\\Desktop\\RE_REPO\\RealEstate\\RE_Solution\\CompAnalysisService\\CompAnalysisService\\Program.cs",
+              "RelativeDocumentMoniker": "CompAnalysisService\\Program.cs",
+              "ToolTip": "C:\\Users\\b93ra\\Desktop\\RE_REPO\\RealEstate\\RE_Solution\\CompAnalysisService\\CompAnalysisService\\Program.cs",
+              "RelativeToolTip": "CompAnalysisService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T01:06:49.113Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

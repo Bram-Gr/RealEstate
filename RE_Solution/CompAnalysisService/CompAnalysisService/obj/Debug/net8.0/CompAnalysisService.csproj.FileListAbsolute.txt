@@ -1,0 +1,7 @@
+C:\Users\b93ra\Desktop\RealEstate\RE_Solution\CompAnalysisService\CompAnalysisService\obj\Debug\net8.0\CompAnalysisService.csproj.AssemblyReference.cache
+C:\Users\b93ra\Desktop\RealEstate\RE_Solution\CompAnalysisService\CompAnalysisService\obj\Debug\net8.0\CompAnalysisService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b93ra\Desktop\RealEstate\RE_Solution\CompAnalysisService\CompAnalysisService\obj\Debug\net8.0\CompAnalysisService.AssemblyInfoInputs.cache
+C:\Users\b93ra\Desktop\RealEstate\RE_Solution\CompAnalysisService\CompAnalysisService\obj\Debug\net8.0\CompAnalysisService.AssemblyInfo.cs
+C:\Users\b93ra\Desktop\RealEstate\RE_Solution\CompAnalysisService\CompAnalysisService\obj\Debug\net8.0\CompAnalysisService.csproj.CoreCompileInputs.cache
+C:\Users\b93ra\Desktop\RealEstate\RE_Solution\CompAnalysisService\CompAnalysisService\obj\Debug\net8.0\CompAnalysisService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\b93ra\Desktop\RealEstate\RE_Solution\CompAnalysisService\CompAnalysisService\obj\Debug\net8.0\CompAnalysisService.MvcApplicationPartsAssemblyInfo.cache
